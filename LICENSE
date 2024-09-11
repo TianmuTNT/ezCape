@@ -1,21 +1,29 @@
-MIT License
+SKY License
 
 Copyright (c) 2024 TianmuTNT
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. 使用权限
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+任何人都可以免费使用、复制、修改、合并、发布、分发和/或再授权本软件，但必须遵守以下条件：
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+a) 必须包含本版权声明和本协议文件的完整副本。
+b) 不得销售本软件的任何部分，或将本软件作为其他软件的一部分进行销售。
+c) 不得声称本软件的所有者是自己或除原作者以外的任何其他人或实体。
+
+2. 免责声明
+
+本软件按"原样"提供，不提供任何明示或暗示的保证，包括但不限于对适销性、特定用途适用性和非侵权性的保证。在任何情况下，作者或版权持有人均不对任何索赔、损害或其他责任负责，无论是在合同诉讼、侵权行为还是其他方面，均与本软件或本软件的使用或其他交易有关。
+
+3. 责任
+
+使用本软件所造成的任何法律纠纷或其他责任均由使用者承担。作者不承担任何相关责任。
+
+4. 协议更新
+
+作者保留随时更新本协议的权利，而无需通知使用者。使用者有责任定期查看本协议的最新版本。
+
+5. 所有权
+
+本软件的所有权永远属于原作者。任何使用、修改或分发本软件的行为都不会改变这一所有权。
+
+使用本软件即表示您同意遵守本协议的所有条款和条件。如果您不同意这些条款，请停止使用本软件。
